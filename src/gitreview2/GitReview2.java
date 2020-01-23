@@ -18,7 +18,9 @@ public class GitReview2 {
      
         // TODO code application logic here
         System.out.println("Git Practice example");
-        System.out.println("Modify from GitHub");
+        System.out.println("Fetch from GitHub");
+        System.out.println("Pull from GitHub");
+
 
     }
     
